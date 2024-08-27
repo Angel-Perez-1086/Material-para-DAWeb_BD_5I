@@ -16,3 +16,7 @@ Tenemos link de referencia mas documentos 2024
 -  https://www.w3schools.com/
 -  Python https://www.w3schools.com/python/default.asp
 -  Descargar python https://www.python.org/downloads/
+
+-  Progrmacion en online
+-  https://coddy.tech/
+
